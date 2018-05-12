@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35528'
     url: http://www.gutenberg.org/2009/agents/35528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31871#The-Voice-of-Science-in-Nineteenth-Century-LiteratureRepresentative-Prose-and-Verse
 gutenberg_issued: '2010-04-03'
 gutenberg_type: Text
 identifiers:
