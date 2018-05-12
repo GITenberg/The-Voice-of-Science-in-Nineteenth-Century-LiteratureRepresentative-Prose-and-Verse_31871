@@ -1,0 +1,31 @@
+_repo: The-Voice-of-Science-in-Nineteenth-Century-LiteratureRepresentative-Prose-and-Verse_31871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Rogers, Robert Emmons
+    birthdate: 1888
+    deathdate: 1941
+    gutenberg_agent_id: '35528'
+    url: http://www.gutenberg.org/2009/agents/35528
+description: ''
+gutenberg_issued: '2010-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century'
+- !lcsh 'Science in literature'
+- !lcsh 'Literature, Modern'
+- !lcsh 'Science'
+- !lcc 'PR'
+title: 'The Voice of Science in Nineteenth-Century Literature
+
+  Representative Prose and Verse'
+url: http://www.gutenberg.org/ebooks/31871
